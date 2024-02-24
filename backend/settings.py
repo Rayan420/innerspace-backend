@@ -67,6 +67,11 @@ TEMPLATES = [
     },
 ]
 
+<<<<<<< Updated upstream:backend/settings.py
+=======
+APPEND_SLASH = False
+
+>>>>>>> Stashed changes:backend/settings/base.py
 WSGI_APPLICATION = 'backend.wsgi.application'
 
 
