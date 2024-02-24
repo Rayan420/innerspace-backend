@@ -1,4 +1,7 @@
-django==4.2.10
-djangorestframework==3.12.4
-django-cors-headers==3.8.0
-djangorestframework-simplejwt==5.0.0
+django
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+mysqlclient
+
+
