@@ -2,7 +2,11 @@ from .base import *
 
 DEBUG = True
 
+<<<<<<< HEAD
 ALLOWED_HOSTS = ['*']
+=======
+ALLOWED_HOSTS = []
+>>>>>>> 90c7574b221f7e305503013034a299715768effa
 
 SECRET_KEY = 'MY SECRET KEY'
 
